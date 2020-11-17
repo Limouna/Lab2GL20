@@ -15,7 +15,10 @@ int main()
     HT.ajouterItem("Ayoub", "054961232");
     HT.ajouterItem("Fatima", "067894315");
     HT.ajouterItem("Ikhlass", "064295432");
-    HT.ajouterItem("Ayman", "Bruh 6");
+    HT.ajouterItem("Ayman", "06948623");
+    HT.ajouterItem("cd", "06786123");
+    HT.ajouterItem("be", "05379861"); //same key as the previous one, to check
+
 
     HT.afficherItem();
 

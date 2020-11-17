@@ -14,7 +14,6 @@ class hash1{
 
 
     public:
-        hash1();
         int HASH(string cle);  //Done
         void ajouterItem(string nom, string tel); //Done
         void afficherItem(); //Done
